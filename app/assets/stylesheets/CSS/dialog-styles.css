@@ -1,0 +1,13 @@
+.div-style{
+    background-color: white;
+    border-left: 4px solid gray;
+}
+.talker{
+    font-style: italic;
+}
+.answer{
+    font-weight: bold;
+}
+.coach{
+    font-weight: bold;
+}
